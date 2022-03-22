@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sunnypandas.citifindbugs.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sunnypandas.citifindbugs.MyBundle
 
 class MyApplicationService {
 
